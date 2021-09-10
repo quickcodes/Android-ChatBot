@@ -1,4 +1,3 @@
 # Android-ChatBot
 
-Basic Android ChatBot 
-Language - Kotlin
+## Basic Android ChatBot 
